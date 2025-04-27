@@ -4,7 +4,7 @@ Manage your contacts effortlessly — Add, View, and Delete contacts easily!
 >
 > ## Technologies Used 🛠
 - React
-- Vite (Optional, اگر باهاش ساخته شده)
+- Vite
 - JavaScript (ES6+)
 - 
 > ## ✨ Features
