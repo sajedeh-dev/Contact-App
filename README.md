@@ -3,7 +3,7 @@ A clean and minimal Contact Management App .
 Manage your contacts effortlessly — Add, View, and Delete contacts easily!
 
 ## 📸 Demo
-> ![Demo Screenshot](path-to-your-demo-image.png)
+> !Demo ( https://sajedeh-dev.github.io/Contact-App/)
 >
 > ## Technologies Used 🛠
 - React
