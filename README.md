@@ -6,7 +6,7 @@ Manage your contacts effortlessly — Add, View, and Delete contacts easily!
 - React
 - Vite
 - JavaScript (ES6+)
-- 
+- Html , Css
 > ## ✨ Features
 - ➕ Add new contacts (Name, Last Name, Email, Phone)
 - 📜 View all saved contacts in a stylish list
